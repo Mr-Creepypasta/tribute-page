@@ -1,0 +1,52 @@
+h1 {
+    font-style: italic;
+    text-align: center;
+}
+
+.first-section {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    gap: 2em;
+    color: ghostwhite;
+    font-style: oblique;
+}
+
+.left-side1 {
+    width: 150%;
+}
+
+.second-section {
+    text-align: center;
+    color: ghostwhite;
+    font-style: oblique;
+}
+
+.third-section {
+    text-align: center;
+    color: ghostwhite;
+    font-style: oblique;
+}
+
+.fourth-section {
+    text-align: center;
+    color: ghostwhite;
+    font-style: oblique;
+}
+
+.types {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    gap: 1em;
+}
+
+.fifth-section {
+    text-align: center;
+    color: ghostwhite;
+    font-style: oblique;
+}
+body {
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/frmilky_way_galaxy_star-image-kybd7u7d.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=3e93a726e0d9f7b70fcf557f5cfc9dc7);
+    background-size: cover;
+}
